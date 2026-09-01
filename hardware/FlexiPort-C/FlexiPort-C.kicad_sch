@@ -9487,6 +9487,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 165.1) (xy 82.55 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a41c00c8-7881-45d8-abe5-4863333ce3ef")
+	)
+	(wire
+		(pts
 			(xy 132.08 125.73) (xy 132.08 129.54)
 		)
 		(stroke
@@ -11807,7 +11817,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "080918f8-67e7-4ffe-81d2-aa94b62bc6a1")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR034"
 			(at 91.44 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11867,7 +11877,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR033")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -11965,7 +11975,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ffc2ded-8a99-4a4a-a2bf-182b78607570")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR054"
 			(at 184.15 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -12025,7 +12035,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR053")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -12437,7 +12447,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21a1e1c1-bf33-4019-a071-fb188680c767")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR057"
 			(at 229.87 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -12497,7 +12507,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR056")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -12875,7 +12885,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a788702-be37-49e9-b9f5-fd419b71ea0f")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR059"
 			(at 250.19 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -12935,7 +12945,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR058")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -13122,7 +13132,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "319ec06b-3a5d-4152-926b-6de577e68247")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR048"
 			(at 134.62 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -13182,7 +13192,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR047")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -14240,7 +14250,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "521d0348-d969-4f37-a9ac-511ca8e9e54f")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 256.54 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -14300,7 +14310,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -14683,7 +14693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a8ce90b-0f9a-4bcc-9a0b-b2fb0ed80e0d")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR040"
 			(at 109.22 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -14743,7 +14753,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR039")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -14837,7 +14847,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "644fdd98-49aa-4def-8ea6-3db45863d3a9")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR055"
 			(at 218.44 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -14897,7 +14907,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR054")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -15512,7 +15522,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "771667e6-9a3a-4742-95c5-f51ae85283e8")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR058"
 			(at 229.87 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -15572,7 +15582,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR057")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -15700,7 +15710,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79f950f7-ae79-4a17-8f95-730c4f9e619e")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR050"
 			(at 139.7 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -15760,7 +15770,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR049")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -15941,7 +15951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d943c0b-d1cc-4685-bf02-373a94f8306e")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR046"
 			(at 129.54 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -16001,7 +16011,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR045")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -16018,7 +16028,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7fff4506-402f-4d1a-b804-e03c52387c86")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR035"
 			(at 92.71 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -16078,7 +16088,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR034")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -16096,7 +16106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "812f133b-73a8-4f4f-8638-adbe8aeda5ed")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR041"
 			(at 109.22 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -16156,7 +16166,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR040")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -16657,7 +16667,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d7add96-0976-44f0-840f-7e8021d2cb42")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 271.78 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -16717,7 +16727,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -16815,7 +16825,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93f561a3-5d4b-4471-a874-30a402a1df46")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 259.08 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -16875,7 +16885,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -16892,7 +16902,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94521d7b-c76a-4ace-9499-50e32ffbc0ce")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR045"
 			(at 123.19 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -16952,7 +16962,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR044")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -17128,7 +17138,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9949faf5-79bf-4384-ac00-df19516304cf")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR043"
 			(at 115.57 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -17188,7 +17198,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR042")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -17205,7 +17215,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9dfef60c-2475-4282-b57a-41a94ca56e0b")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR036"
 			(at 97.79 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -17265,7 +17275,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR035")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -17516,7 +17526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a95a133d-35b2-4086-8953-4de17dceda9c")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR042"
 			(at 111.76 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -17576,7 +17586,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR041")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -18679,7 +18689,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bee0fe36-59b8-45c9-9ebe-b190419a62a1")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR051"
 			(at 163.83 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -18739,7 +18749,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR050")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -19511,7 +19521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2767534-a744-4419-9734-95fc86e99c76")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 90.17 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -19571,7 +19581,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -19588,7 +19598,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d29c1608-a06c-491c-8b70-812b51dc80a5")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR049"
 			(at 137.16 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -19648,7 +19658,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR048")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -19747,7 +19757,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d622b210-7ecc-498b-bd4d-f5b74ec8c3f8")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 252.73 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -19807,7 +19817,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR059")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -19825,7 +19835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6ca61d8-4a85-40b3-a49d-f24b1ff24a5f")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR037"
 			(at 100.33 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -19885,7 +19895,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR036")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -19902,7 +19912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d71d20bc-f075-45cb-a989-0de11110ef3b")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR044"
 			(at 123.19 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -19962,7 +19972,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR043")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -19979,7 +19989,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd1911df-577f-47b0-81a5-f4067a5544da")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR056"
 			(at 218.44 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -20039,7 +20049,85 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR055")
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND1")
+		(at 82.55 168.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd526296-8778-4bbb-8459-a90c557a99ef")
+		(property "Reference" "#PWR032"
+			(at 82.55 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND1"
+			(at 82.55 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.55 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND1\" , ground"
+			(at 82.55 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "16211561-24c2-4fad-b092-6e66bc89d6c7")
+		)
+		(instances
+			(project "FlexiPort-C"
+				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -20588,7 +20676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9bdafdf-1a95-47c1-921f-47396df42f87")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR047"
 			(at 132.08 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -20648,7 +20736,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR046")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -20763,7 +20851,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eafd8ebf-0506-43e3-bb3c-e1ccc73ecb71")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR053"
 			(at 168.91 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -20823,7 +20911,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR052")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -20917,7 +21005,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec3861bd-d5bb-420b-9d9a-55de1d0a0e56")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR052"
 			(at 163.83 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -20977,7 +21065,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR051")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -21388,7 +21476,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f677f55d-1481-4f06-9ce6-9b25d10e56b3")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR038"
 			(at 107.95 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -21448,7 +21536,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR037")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -21624,7 +21712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa52fe72-5b06-4a0f-964c-70e08634a63d")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR039"
 			(at 107.95 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -21684,7 +21772,7 @@
 		(instances
 			(project "FlexiPort-C"
 				(path "/c6d8c3f8-7395-4926-83d6-9fb889ad8dad"
-					(reference "#PWR038")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
